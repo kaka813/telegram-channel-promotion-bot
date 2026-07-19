@@ -47,19 +47,19 @@
 
 ### 1. 互推管理面板
 
-![TG互推机器人管理面板](assets/01-dashboard.jpg)
+![TG互推机器人管理面板](01-dashboard.jpg)
 
 首页展示绑定频道或群组、申请互推车队、查看候补与参与曝光等操作。
 
 ### 2. 机器人资料页
 
-![Telegram互推机器人资料页](assets/02-bot-profile.jpg)
+![Telegram互推机器人资料页](02-bot-profile.jpg)
 
 资料页用于核对机器人名称和准确用户名，避免进入仿冒账号。
 
 ### 3. Telegram公开入口
 
-![TG互推机器人公开入口](assets/03-public-entry.jpg)
+![TG互推机器人公开入口](03-public-entry.jpg)
 
 从公开入口打开后，请确认用户名为 @hutuiibot 再继续操作。
 
